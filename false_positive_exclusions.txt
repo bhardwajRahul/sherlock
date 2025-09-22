@@ -1,8 +1,7 @@
 APClips
-CGTrader
+Carbonmade
 Coders Rank
-Flipboard
-GNOME VCS
+DeviantART
 Giphy
 HackerEarth
 Heavy-R
@@ -21,6 +20,5 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
