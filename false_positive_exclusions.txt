@@ -1,7 +1,7 @@
 APClips
-Carbonmade
 Coders Rank
-DeviantART
+CyberDefenders
+GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
@@ -13,12 +13,14 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
 Topcoder
 Weblate
+Wordnik
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
+xHamster
