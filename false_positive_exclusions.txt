@@ -1,11 +1,9 @@
 APClips
-BitBucket
-Carbonmade
-Crevado
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -15,14 +13,13 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SoylentNews
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
 kaskus
+nnRU
 opennet
 svidbook
 threads
-xHamster
