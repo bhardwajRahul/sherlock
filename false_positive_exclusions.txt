@@ -1,6 +1,5 @@
 APClips
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -8,10 +7,14 @@ Heavy-R
 LushStories
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
+Steam Community (Group)
+Steam Community (User)
 Weblate
 YandexMusic
 kaskus
