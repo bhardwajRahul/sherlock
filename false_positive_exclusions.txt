@@ -1,10 +1,9 @@
 APClips
-Freelancer
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -12,10 +11,10 @@ Reddit
 RocketTube
 Splice
 Spotify
-Steam Community (User)
 Topcoder
 Weblate
 YandexMusic
 kaskus
+nnRU
 opennet
 svidbook
