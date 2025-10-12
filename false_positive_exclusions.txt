@@ -1,18 +1,18 @@
 APClips
 Coders Rank
-Freelancer
 GNOME VCS
 Giphy
 HackerEarth
-HackerRank
 Heavy-R
-LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
+Tenor
+Topcoder
 Weblate
 YandexMusic
 opennet
