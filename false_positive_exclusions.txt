@@ -4,14 +4,14 @@ GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
-Tenor
 Topcoder
 Weblate
 YandexMusic
