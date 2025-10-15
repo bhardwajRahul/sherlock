@@ -1,17 +1,15 @@
 APClips
-BreachSta.rs Forum
-Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 Heavy-R
-LessWrong
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 opennet
