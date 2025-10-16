@@ -1,4 +1,5 @@
 APClips
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
@@ -12,5 +13,4 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-opennet
 svidbook
