@@ -1,9 +1,10 @@
 APClips
+BreachSta.rs Forum
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-Heavy-R
+Itch.io
 LushStories
 PocketStars
 Reddit
@@ -13,4 +14,5 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+opennet
 svidbook
