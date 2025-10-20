@@ -1,16 +1,14 @@
 APClips
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 LushStories
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
-opennet
 svidbook
