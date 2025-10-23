@@ -1,6 +1,10 @@
 APClips
+BreachSta.rs Forum
+DeviantArt
 GNOME VCS
 Giphy
+Gravatar
+Itch.io
 LushStories
 PocketStars
 Reddit
@@ -9,4 +13,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 svidbook
+xHamster
