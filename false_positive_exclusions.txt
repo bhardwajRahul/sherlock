@@ -1,16 +1,14 @@
 APClips
-BreachSta.rs Forum
 DeviantArt
 GNOME VCS
 Giphy
-Gravatar
-Itch.io
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
