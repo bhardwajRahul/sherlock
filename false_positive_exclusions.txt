@@ -1,9 +1,11 @@
 APClips
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 LushStories
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
@@ -13,4 +15,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
