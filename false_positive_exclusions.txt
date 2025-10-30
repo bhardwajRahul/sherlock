@@ -1,4 +1,5 @@
 APClips
+CGTrader
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -14,4 +15,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
