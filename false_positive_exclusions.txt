@@ -1,7 +1,4 @@
 APClips
-Blogger
-Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 LushStories
@@ -10,7 +7,7 @@ Reddit
 RocketTube
 Splice
 Spotify
-Trovo
+TETR.IO
 Weblate
 YandexMusic
 opennet
