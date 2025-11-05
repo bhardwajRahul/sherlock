@@ -1,15 +1,16 @@
 APClips
+DeviantArt
 GNOME VCS
 Giphy
+HackerRank
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-TETR.IO
+Trovo
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
