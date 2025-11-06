@@ -1,8 +1,9 @@
 APClips
+Carbonmade
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-HackerRank
 LushStories
 PocketStars
 Reddit
@@ -13,4 +14,6 @@ Trovo
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
+xHamster
