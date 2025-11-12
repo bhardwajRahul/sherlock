@@ -1,13 +1,11 @@
 APClips
-Archive of Our Own
 Archive.org
-Blogger
 Coders Rank
 DeviantArt
-Freelancer
 GNOME VCS
 Giphy
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -16,6 +14,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-furaffinity
 opennet
 svidbook
