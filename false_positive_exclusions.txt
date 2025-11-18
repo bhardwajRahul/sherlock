@@ -1,6 +1,6 @@
 APClips
 Archive.org
-CGTrader
+DeviantArt
 GNOME VCS
 Giphy
 LushStories
@@ -9,6 +9,9 @@ Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
+opennet
+phpRU
 svidbook
