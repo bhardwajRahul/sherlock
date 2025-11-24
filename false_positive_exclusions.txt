@@ -3,6 +3,7 @@ Archive.org
 GNOME VCS
 Giphy
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
