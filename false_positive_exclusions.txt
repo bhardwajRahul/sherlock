@@ -5,6 +5,7 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Itch.io
 LushStories
 PocketStars
 Reddit
