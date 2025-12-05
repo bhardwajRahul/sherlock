@@ -1,24 +1,20 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
 Coders Rank
-DeviantArt
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
+threads
 xHamster
