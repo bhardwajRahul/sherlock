@@ -3,6 +3,7 @@ Archive.org
 Code Snippet Wiki
 Coders Rank
 DeviantArt
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
@@ -17,3 +18,4 @@ Trovo
 Weblate
 YandexMusic
 svidbook
+xHamster
