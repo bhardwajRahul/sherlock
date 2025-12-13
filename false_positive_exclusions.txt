@@ -1,5 +1,6 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
 Coders Rank
 Fandom
@@ -19,5 +20,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-threads
-xHamster
