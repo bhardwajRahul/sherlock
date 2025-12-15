@@ -1,6 +1,5 @@
 APClips
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
 Coders Rank
 Fandom
@@ -9,10 +8,10 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
 Vero
@@ -20,3 +19,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
