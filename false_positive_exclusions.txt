@@ -1,19 +1,16 @@
 APClips
 Archive.org
+Audiojungle
+BoardGameGeek
 Code Snippet Wiki
-Cults3D
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 HackerRank
 Hubski
 LushStories
-Minecraft
 PocketStars
-Pychess
 Realmeye
 Reddit
 RocketTube
@@ -22,9 +19,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+threads
