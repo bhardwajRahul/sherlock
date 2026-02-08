@@ -21,8 +21,7 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+furaffinity
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
