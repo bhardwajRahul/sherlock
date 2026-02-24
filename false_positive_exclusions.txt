@@ -1,15 +1,15 @@
 APClips
 Archive.org
+Blogger
 Code Snippet Wiki
 DeviantArt
+Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
-Hive Blog
 Hubski
 LessWrong
-Lobsters
 LushStories
 Patched
 PocketStars
@@ -21,10 +21,13 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
