@@ -6,6 +6,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Patched
 PocketStars
 Realmeye
