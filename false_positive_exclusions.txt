@@ -1,11 +1,14 @@
 APClips
 Archive.org
+BoardGameGeek
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Minecraft
 Patched
 PocketStars
@@ -18,8 +21,10 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
 opennet
