@@ -1,16 +1,15 @@
 APClips
 Archive.org
 Codolio
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Patched
 PocketStars
+Rarible
 Realmeye
 Reddit
 RocketTube
