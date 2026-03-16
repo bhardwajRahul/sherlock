@@ -2,7 +2,6 @@ APClips
 Archive.org
 Codolio
 DeviantArt
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
@@ -17,6 +16,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -25,6 +25,7 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
