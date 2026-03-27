@@ -6,7 +6,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Patched
@@ -19,7 +18,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
