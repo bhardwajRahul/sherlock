@@ -3,6 +3,7 @@ APClips
 Archive.org
 Codolio
 Discord.bio
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -12,6 +13,7 @@ LushStories
 Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -23,7 +25,6 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 interpals
@@ -31,3 +32,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
