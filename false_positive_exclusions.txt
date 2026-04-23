@@ -3,17 +3,18 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Codolio
+Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+Itch.io
+Linktree
+LushStories
 Patched
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -25,7 +26,6 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
