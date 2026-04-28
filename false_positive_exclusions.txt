@@ -19,7 +19,6 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -28,7 +27,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
@@ -37,4 +35,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
+xHamster
