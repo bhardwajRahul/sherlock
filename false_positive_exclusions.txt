@@ -4,18 +4,16 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LushStories
-Minecraft
-Outgress
 Patched
 Rarible
 Realmeye
@@ -25,13 +23,12 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
-YandexMusic
 dailykos
 interpals
 mercadolivre
