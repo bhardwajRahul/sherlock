@@ -1,30 +1,31 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
 Minecraft
 Motherless
-NitroType
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -36,3 +37,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
+xHamster
