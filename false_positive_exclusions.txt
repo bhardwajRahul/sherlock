@@ -3,14 +3,17 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
+Audiojungle
 Bandcamp
+Coders Rank
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Freelancer
+Flipboard
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
 LessWrong
@@ -40,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
