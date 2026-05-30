@@ -1,10 +1,9 @@
 7Cups
-APClips
 Airliners
-AniWorld
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
@@ -13,7 +12,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Minecraft
+LessWrong
 Patched
 Rarible
 Realmeye
@@ -39,4 +38,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
