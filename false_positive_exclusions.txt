@@ -1,11 +1,10 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-Carbonmade
 Codolio
 Discord.bio
 Envato Forum
@@ -13,9 +12,11 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 Odysee
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,3 +38,5 @@ interpals
 mercadolivre
 opennet
 phpRU
+svidbook
+xHamster
