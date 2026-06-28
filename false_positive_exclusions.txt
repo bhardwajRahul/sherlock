@@ -4,10 +4,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+BoardGameGeek
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
+Exposure
 GeeksforGeeks
 Giphy
 Hashnode
@@ -27,7 +29,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
