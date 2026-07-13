@@ -30,11 +30,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
-Wix
 YandexMusic
 authorSTREAM
 dailykos
