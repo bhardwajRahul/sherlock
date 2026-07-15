@@ -5,9 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
-Carbonmade
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,11 +14,9 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Linktree
 Minecraft
 Odysee
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -32,7 +28,6 @@ SlideShare
 Splice
 Spotify
 Star Citizen
-Trovo
 TryHackMe
 Velomania
 Weblate
