@@ -1,23 +1,24 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
+Itch.io
 LessWrong
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -38,6 +39,8 @@ dailykos
 igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
+xHamster
