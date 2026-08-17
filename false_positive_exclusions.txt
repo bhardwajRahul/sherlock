@@ -5,15 +5,14 @@ Apple Discussions
 Archive.org
 Bandcamp
 Chatujme.cz
+Chess
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
 HackenProof (Hackers)
 Hashnode
 Houzz
@@ -21,6 +20,7 @@ Hubski
 Instapaper
 Minecraft
 Odysee
+Outgress
 PCGamer
 Patched
 Rarible
@@ -31,9 +31,11 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
