@@ -3,9 +3,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+BabyRu
 Bandcamp
-Chatujme.cz
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -13,14 +12,12 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
 Minecraft
 Odysee
-Outgress
 PCGamer
 Patched
 Rarible
@@ -31,18 +28,18 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
+TikTok
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 hunting
 igromania
 interpals
