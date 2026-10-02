@@ -6,6 +6,8 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -21,7 +23,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -31,11 +32,13 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -52,4 +55,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
