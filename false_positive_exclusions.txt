@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -20,16 +19,16 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
@@ -45,6 +44,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
