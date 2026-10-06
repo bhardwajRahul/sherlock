@@ -8,6 +8,7 @@ CGTrader
 Championat
 Chatujme.cz
 Codolio
+Contently
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,16 +20,15 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
 ObservableHQ
 Odysee
 PCGamer
-Rajce.net
 Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
