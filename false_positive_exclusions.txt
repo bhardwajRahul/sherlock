@@ -5,13 +5,11 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
-Contently
 DeviantArt
 Discord.bio
 Envato Forum
@@ -24,10 +22,11 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
+Pastebin
 Pornhub
 Rarible
 Realmeye
@@ -39,7 +38,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -48,12 +46,11 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+fl
 hunting
-igromania
 interpals
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
