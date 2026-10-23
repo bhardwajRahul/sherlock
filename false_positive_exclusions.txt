@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -25,7 +26,6 @@ Linktree
 Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -37,6 +37,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -51,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
