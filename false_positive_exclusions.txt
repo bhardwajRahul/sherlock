@@ -6,7 +6,6 @@ Archive.org
 Championat
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
@@ -17,6 +16,8 @@ Instapaper
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -28,7 +29,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
